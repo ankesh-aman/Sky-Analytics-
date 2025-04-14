@@ -1,7 +1,7 @@
 # ✈️ Sky Analytics: Navigating the Complexities of Airline and Airport Operations
    (2015 Flight Delays and Cancellations Analysis)
 
-(https://unsplash.com/photos/white-airplane--FhoJYnw-cg)
+![Flight Analysis Logo](https://unsplash.com/photos/white-airplane--FhoJYnw-cg)
 
 **Excel Analysis Figure**: Flight Performance Dashboard 📊
 
