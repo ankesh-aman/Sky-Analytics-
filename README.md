@@ -21,7 +21,7 @@ The primary goals of this project were:
 
 ## Dataset Description 📂
 The analysis leveraged the 2015 Flight Delays and Cancellations dataset:
-- **Size**: A massive 800,000 rows and 27 columns! 📑
+- **Size**: A massive 800,00 rows and 27 columns! 📑
 - **Details**: Captures airline delays (arrival/departure), cancellations (reasons), airport activity (flights, connectivity), and operational metrics (e.g., distance, duration differences). 🛫
 
 ## Data Preprocessing 🛠️
